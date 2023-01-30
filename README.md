@@ -18,10 +18,10 @@ DSDB is a Distributed System DataBase implemented in C++ using B-Trees to manage
 
 
 2. Navigate to the cloned repository:
-- cd dsdb
+- cd Distributed_System_DataBase
 
 3. Compile the source code:
-- g++ -o dsdb main.cpp
+- g++ -o dsdb DSDB.cpp
 
 4. Run the executable file:
 - ./dsdb
